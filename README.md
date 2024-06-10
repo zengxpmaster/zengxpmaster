@@ -1,5 +1,9 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-zengxpmasters-projects.vercel.app/api?username=zengxpmaster&theme=highcontrast&hide=contribs,prs&hide_rank=true&include_all_commits=true&show_icons=true)](https://github-readme-stats-zengxpmasters-projects.vercel.app)
+<details>
+  <summary><img alt="Static Badge" width="120px" src="https://img.shields.io/badge/Github-Stats-blue?style=flat&logo=github&logoColor=000000&labelColor=green"></summary>
+  <img align="left" alt="zengxpmaster's GitHub Stats" src="https://github-readme-stats-zengxpmasters-projects.vercel.app/api?username=zengxpmaster&theme=highcontrast&hide=contribs,prs&hide_rank=true&include_all_commits=true&show_icons=true" />
+</details>
+
 <!--
 **zengxpmaster/zengxpmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github-readme-stats-zengxpmasters-projects.vercel.app/
