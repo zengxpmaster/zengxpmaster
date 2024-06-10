@@ -1,6 +1,6 @@
 ## Hi there 👋
 <details>
-  <summary><img alt="Static Badge" width="120px" src="https://img.shields.io/badge/Github-Stats-blue?style=flat&logo=github&logoColor=000000&labelColor=green"></summary>
+  <summary>Github Stats <img alt="Static Badge" width="120px" src="https://img.shields.io/badge/Github-Stats-blue?style=flat&logo=github&logoColor=000000&labelColor=green"></summary>
   <img align="left" alt="zengxpmaster's GitHub Stats" src="https://github-readme-stats-zengxpmasters-projects.vercel.app/api?username=zengxpmaster&theme=highcontrast&hide=contribs,prs&hide_rank=true&include_all_commits=true&show_icons=true" />
 </details>
 
